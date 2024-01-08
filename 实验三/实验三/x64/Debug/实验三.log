@@ -1,0 +1,10 @@
+﻿  task3.cpp
+D:\桌面\program_code\visual\离散数学实验\实验三\实验三\task3.cpp(86,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\桌面\program_code\visual\离散数学实验\实验三\实验三\task3.cpp(156,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\桌面\program_code\visual\离散数学实验\实验三\实验三\task3.cpp(176,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\桌面\program_code\visual\离散数学实验\实验三\实验三\task3.cpp(191,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\桌面\program_code\visual\离散数学实验\实验三\实验三\task3.cpp(205,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\桌面\program_code\visual\离散数学实验\实验三\实验三\task3.cpp(288,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\桌面\program_code\visual\离散数学实验\实验三\实验三\task3.cpp(315,30): warning C4305: “初始化”: 从“__int64”到“int”截断
+D:\桌面\program_code\visual\离散数学实验\实验三\实验三\task3.cpp(315,16): warning C4309: “初始化”: 截断常量值
+  实验三.vcxproj -> D:\桌面\program_code\visual\离散数学实验\实验三\x64\Debug\实验三.exe
